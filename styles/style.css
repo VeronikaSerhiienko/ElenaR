@@ -239,7 +239,6 @@ body {
 }
 
 .clients__item__p {
-	font-size: 14px;
 	line-height: 1.55em;
 	margin: 0;	
 }
@@ -306,7 +305,6 @@ body {
 .themeforest__item__p,
 .supported__item__p,
 .option__item__p {
-	font-size: 14px;
 	line-height: 1.55em;
 	margin: 0;
 	text-align: left;	
@@ -325,8 +323,8 @@ body {
 
 @media screen and (min-width: 320px) and (max-width: 619px) {
 	.button {		
-		padding: 15px 45px;	
-		font-size: 20px;
+		padding: 10px 35px;	
+		font-size: 16px;
 	}
 }
 
@@ -423,7 +421,7 @@ body {
 
 @media screen and (min-width: 320px) and (max-width: 619px) {
 	.checkthisout {
-		font-size: 20px;
+		font-size: 18px;
 	}
 }
 
