@@ -187,6 +187,7 @@ body {
 @media screen and (min-width: 320px) and (max-width: 619px) {
 	.clients__item	{
 		margin-bottom: 25px;
+		width: 300px;
 	}
 
 	.clients__item:last-child {
@@ -322,6 +323,13 @@ body {
 	transition: 3s;
 }
 
+@media screen and (min-width: 320px) and (max-width: 619px) {
+	.button {		
+		padding: 15px 45px;	
+		font-size: 20px;
+	}
+}
+
 /*section 4*/
 
 .section__fourth,
@@ -411,6 +419,12 @@ body {
 	text-decoration: none;
 	color: #50c3af;
 	text-transform: none;
+}
+
+@media screen and (min-width: 320px) and (max-width: 619px) {
+	.checkthisout {
+		font-size: 20px;
+	}
 }
 
 .top {
